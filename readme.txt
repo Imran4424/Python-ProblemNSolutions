@@ -13,11 +13,18 @@
 1.10. Write a program that read any upper case character and display in lower case
 
 1.11. Write a program that read any decimal number and display equivalent octal number
-1.12. Write a program that read any decimal number and display equivalent hexadecimal number
-1.13. Write a program that read any octal number and display equivalent decimal number
-1.14. Write a program that read any hexadecimal number and display equivalent decimal number
 
-1.15. Write a program that read as many characters as need to read your name and display the characters sequencially without spaces
+1.12. Write a program that read any decimal number and display equivalent hexadecimal number
+
+1.13. Write a program that read any decimal number and display equivalent binary number
+
+1.14. Write a program that read any octal number and display equivalent decimal number
+
+1.15. Write a program that read any hexadecimal number and display equivalent decimal number
+
+1.16. Write a program that read any binary number and display equivalent decimal number
+
+1.17. Write a program that read as many characters as need to read your name and display the characters sequencially with spaces
 
 1.18. Write a program that read and display your name
 1.19. Write a program that read and display a line of text

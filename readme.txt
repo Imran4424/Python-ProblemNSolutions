@@ -27,12 +27,17 @@
 1.17. Write a program that read as many characters as need to read your name and display the characters sequencially with spaces
 
 1.18. Write a program that read and display your name
-1.19. Write a program that read and display a line of text
+1.19. Write a program that read and display your full name
 
-1.20. Write a program that read any date in the format DD/MM/YYYY and displays day, month and year separately
-1.21. Write a program that read any date in the format DD-MM-YYYY and displays day, month and year separately
-1.22. Write a program that read any date in the format DD MM YYYY and displays day, month and year separately
-1.23. Write a program that read any date in the format DD,MM,YYYY and displays day, month and year separately
+1.20. Write a program that read any date and displays in the format DD/MM/YYYY
+1.21. Write a program that read any date and displays in the format DD-MM-YYYY
+1.22. Write a program that read any date and displays in the format DD MM YYYY
+1.23. Write a program that read any date and displays in the format DD,MM,YYYY
+
+1.24. Write a program that read any date in the format DD/MM/YYYY and displays day, month and year separately
+1.25. Write a program that read any date in the format DD-MM-YYYY and displays day, month and year separately
+1.26. Write a program that read any date in the format DD MM YYYY and displays day, month and year separately
+1.27. Write a program that read any date in the format DD,MM,YYYY and displays day, month and year separately
 
 
 
@@ -60,8 +65,8 @@
 2.16. Write a program that read a number and mod by four using bitwise AND
 2.17. Write a program that read a number and mod by eight using bitwise AND
 
-2.18. Write a C program to swap the values of two variables using temporary variable
-2.19. Write a C program to swap the values of two variables without using temporary variable
+2.18. Write a program to swap the values of two variables using temporary variable
+2.19. Write a program to swap the values of two variables without using temporary variable
 
 2.20. Write a program that read two numbers and display maximum using ternary operator
 2.21. Write a program that read two numbers and display minimum using ternary operator
@@ -113,11 +118,11 @@
 4.11. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should
       be checked
 
-4.12. Write a C program to input any character and check whether it is alphabet, digit or special character
+4.12. Write a program to input any character and check whether it is alphabet, digit or special character
 
-4.13. Write a C program to check whether a character is uppercase or lowercase alphabet
+4.13. Write a program to check whether a character is uppercase or lowercase alphabet
 
-4.14. Write a C program to generate a simple arithmetic calculator
+4.14. Write a program to generate a simple arithmetic calculator
 	
 	hints: 
 	enter two numbers: 6 5
@@ -130,19 +135,19 @@
 4.15. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation:
 			ax^2 + bx + c = 0
 
-4.16. Write a C program to input angles of a triangle and check whether triangle is valid or not
-4.17. Write a C program to input all sides of a triangle and check whether triangle is valid or not
-4.18. Write a C program to check whether the triangle is equilateral, isosceles or scalene triangle
+4.16. Write a program to input angles of a triangle and check whether triangle is valid or not
+4.17. Write a program to input all sides of a triangle and check whether triangle is valid or not
+4.18. Write a program to check whether the triangle is equilateral, isosceles or scalene triangle
 
 5. Switch
 
 5.1. Write a program that read a digit and diplay by spelling
 5.2. Write a program that read any number and display equivalent roman number
 
-5.3. Write a C program to print day of week name using switch case
-5.4. Write a C program print total number of days in a month using switch case
+5.3. Write a program to print day of week name using switch case
+5.4. Write a program print total number of days in a month using switch case
 
-5.5. Write a C program to create Simple Calculator using switch case
+5.5. Write a program to create Simple Calculator using switch case
 
 
 
@@ -704,22 +709,22 @@ Enter an odd positive integer n: 5
 8.2. Write down a program that can take a lower bound i and an upper bound n and then find out the summation of
      those numbers which are divisible by 3 from i to n.
 
-8.3. Write a C program to print multiplication table of any number
+8.3. Write a program to print multiplication table of any number
 
 
 8.4. Write a program that read a positive integer and display its factorial
 8.5. Write a program that read a positive integer and display sum of its digit
 
-8.6. Write a C program to find first and last digit of a number
-8.7. Write a C program to find sum of first and last digit of a number
-8.8. Write a C program to swap first and last digits of a number
+8.6. Write a program to find first and last digit of a number
+8.7. Write a program to find sum of first and last digit of a number
+8.8. Write a program to swap first and last digits of a number
 
 8.9. Write a program that read any positive integer and display reverse
 
 8.10. Write a program that read any positive integer and reverse the positive number
 
-8.11. Write a C program to find one's complement of a binary number
-8.12. Write a C program to find two's complement of a binary number
+8.11. Write a program to find one's complement of a binary number
+8.12. Write a program to find two's complement of a binary number
 
 8.13. Write a program that read any decimal number and display equivalent binary number
 8.14. Write a program that read any decimal number and display equivalent octal number
@@ -744,24 +749,24 @@ Enter an odd positive integer n: 5
 8.28. Write a program that displays all fibonacci numbers from 1 to n
 8.29. Write a program that determine a number fibonacci or not
 
-8.30. Write a C program to find out all the palindrome numbers in the range 0 to 10000. Also print the
+8.30. Write a program to find out all the palindrome numbers in the range 0 to 10000. Also print the
       palindrome numbers
 
       Hint: If a positive integer and its reverse are same then the number is called a palindrome.
             242 is parildrome because 242 = 242 (reversed but still same) 
 
 
-8.31. Write a C program to find out the perfect numbers in the range 0 to 10000. Also print them
+8.31. Write a program to find out the perfect numbers in the range 0 to 10000. Also print them
 
       Hint: a positive integer that is equal to the sum of its proper divisors.
             The smallest perfect number is 6, which is the sum of 1, 2 and 3
 
-8.32. Write a C program to find out the strong numbers in the range 0 to 10000. Also print them
+8.32. Write a program to find out the strong numbers in the range 0 to 10000. Also print them
 
       Hint: 
             145 is strong number. Since, 1!+4!+5! = 145.
 
-8.33. Write a C program to find out the armstrong numbers in the range 0 to 10000. Also print them
+8.33. Write a program to find out the armstrong numbers in the range 0 to 10000. Also print them
 
       Hint: 
             371 is armstrong number. Since, 371 three digits, so, 3^3 + 7^3 + 1^3 = 371.
@@ -769,7 +774,7 @@ Enter an odd positive integer n: 5
 
             all single digit numbers are armstrong number.
 
-8.34. Write a C program to check if an integer (entered by the user) can be expressed as the sum of two prime
+8.34. Write a program to check if an integer (entered by the user) can be expressed as the sum of two prime
       numbers. Also show all of the possible combinations
 
       Hint: Enter a positive integer: 34
@@ -778,7 +783,7 @@ Enter an odd positive integer n: 5
 		34 = 11 + 23
 		34 = 17 + 17
 
-8.35. Write a C program to print Pascal triangle upto n rows
+8.35. Write a program to print Pascal triangle upto n rows
 
 
 9. goto, break, continue
@@ -968,16 +973,16 @@ Enter an odd positive integer n: 5
 14.30. Write a function that sorts an array Ascending
 14.31. Write a function that sorts an array Decending
 
-14.32. Write a C program to check whether a number is even or odd using functions
-14.33. Write a C program to check whether a number is prime or not using functions
-14.34. Write a C program to check whether a number is palindrome or not using functions
-14.35. Write a C program to check whether a number is perfect or not using functions
-14.36. Write a C program to check whether a number is strong or not using functions
+14.32. Write a program to check whether a number is even or odd using functions
+14.33. Write a program to check whether a number is prime or not using functions
+14.34. Write a program to check whether a number is palindrome or not using functions
+14.35. Write a program to check whether a number is perfect or not using functions
+14.36. Write a program to check whether a number is strong or not using functions
 
-14.37. Write a C program to find all prime numbers between a given interval using functions.
-14.38. Write a C program to find all palindrome numbers between a given interval using functions.
-14.39. Write a C program to find all perfect numbers between given a interval using functions.
-14.40. Write a C program to find all strong numbers between given a interval using functions.
+14.37. Write a program to find all prime numbers between a given interval using functions.
+14.38. Write a program to find all palindrome numbers between a given interval using functions.
+14.39. Write a program to find all perfect numbers between given a interval using functions.
+14.40. Write a program to find all strong numbers between given a interval using functions.
 
 14.41. Write a function that gets a string and returns it's length
 14.42. Write a function that gets a string and reverse all characters

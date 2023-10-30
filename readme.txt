@@ -73,7 +73,7 @@
 
 
 
-3. Math.h
+3. Math
 
 3.1. Write a program that read any integer number and display absolute value
 

@@ -71,7 +71,7 @@
 2.20. Write a program that read two numbers and display maximum using ternary operator
 2.21. Write a program that read two numbers and display minimum using ternary operator
 
-
+2.22. Write a program that reads two numbers and display the maximum without using relational operators
 
 3. Math
 

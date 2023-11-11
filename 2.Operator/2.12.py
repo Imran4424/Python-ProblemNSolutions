@@ -1,7 +1,7 @@
 # 2.12. Write a program that read two numbers and display bitwise Exclusive OR
 
 numOne = int(input("Enter the first the number: "))
-numTwo = int(input("Enter the first the number: "))
+numTwo = int(input("Enter the second the number: "))
 
 
 exclusiveOR = numOne ^ numTwo

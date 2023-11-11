@@ -1,7 +1,7 @@
 # 2.10. Write a program that read two numbers and display bitwise AND
 
 numOne = int(input("Enter the first the number: "))
-numTwo = int(input("Enter the first the number: "))
+numTwo = int(input("Enter the second the number: "))
 
 
 bitwiseAnd = numOne & numTwo

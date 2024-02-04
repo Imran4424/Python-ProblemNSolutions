@@ -109,7 +109,7 @@
 
 4.5. Write a program that read three numbers and display maximum
 4.6. Write a program that read three numbers and display minimum
-4.7. Write a program that read three numbers and display mediam
+4.7. Write a program that read three numbers and display median
 
 4.8. Write a program that read mark and display pass or fail
 4.9. Write a program that read mark and display result in grade

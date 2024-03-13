@@ -16,3 +16,13 @@ try:
 except ValueError:
     print("Invalid input. Please enter a valid integer.")
 
+
+
+# Binary Operator
+# Compartion Operator
+
+# == : equal operator ( 5 == 5 gives true, 3 == 5 gives false)
+# != : Not Equal To ( 5 != 5 gives false, 3 != 5 gives true)
+# > : Greater Than ( 5 > 3 gives true, 3 > 5 gives false)
+# < : Less Than ( 5 < 3 gives false, 3 < 5 gives true)
+# >= : Greater Than or Equal To ( 5 < 3 gives false, 3 < 5 gives true)

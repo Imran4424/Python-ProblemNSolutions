@@ -11,6 +11,7 @@ try:
     # Convert the angle to radians and calculate the cosine
     cosine_value = math.cos(math.radians(angle))
     print(f"The cosine of {angle} degrees is {cosine_value:.4f}")
+    print("cosine Value", "{:.4f}".format(cosine_value))
 
 except ValueError:
     print("Invalid input. Please enter a valid number.")

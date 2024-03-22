@@ -139,195 +139,184 @@
 4.17. Write a program to input all sides of a triangle and check whether triangle is valid or not
 4.18. Write a program to check whether the triangle is equilateral, isosceles or scalene triangle
 
-5. Switch
 
-5.1. Write a program that read a digit and diplay by spelling
-5.2. Write a program that read any number and display equivalent roman number
+5. Series
 
-5.3. Write a program to print day of week name using switch case
-5.4. Write a program print total number of days in a month using switch case
+5.1. Write a program to calculate the series: 1 + 2 + 3 + 4 + ... + n
+5.2. Write a program to calculate the series: 2 + 4 + 6 + 8 + ... + n
+5.3. Write a program to calculate the series: 1 + 3 + 5 + 7 + ... + n
+5.4. Write a program to calculate the series: 4 + 12 + 20 + 28 + ... + n
+5.5. Write a program to calculate the series: 2 + 5 + 8 + 11 + ... + n
 
-5.5. Write a program to create Simple Calculator using switch case
+5.6. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n(n+1)
+5.7. Write a program to calculate the series: 2.1 + 5.3 + 8.5 + ... + n(n - nth)
+5.8. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n(n+2)
 
+5.9. Write a program to calculate the series: 1^2 + 2^2 + 3^2 + ... + n^2
+5.10. Write a program to calculate the series: 1^2 + 3^2 + 5^2 + ... + n^2
+5.11. Write a program to calculate the series: 1^3 + 2^3 + 3^3 + ... + n^3
+5.12. Write a program to calculate the series: 1^1 + 2^2 + 3^3 + ... + n^n
 
+5.13. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.5^2 + ... + n.(n + nth - 1)^2
+5.14. Write a program to calculate the series: 1.2^2 + 2.3^2 + 3.4^2 + ... + n.(n+1)^2
 
-6. Series
+5.15. Write a program to calculate the series: 1.2.3 + 2.3.4 + 3.4.5 + ... + n(n+1)(n+2)
+5.16. Write a program to calculate the series: 2.5.8 + 5.8.11 + 8.11.14 + ... + n(n+3)(n+6)
+5.17. Write a program to calculate the series: 5.6.7 + 6.7.8 + 7.8.9 + ... + n(n+1)(n+2)
 
-6.1. Write a program to calculate the series: 1 + 2 + 3 + 4 + ... + n
-6.2. Write a program to calculate the series: 2 + 4 + 6 + 8 + ... + n
-6.3. Write a program to calculate the series: 1 + 3 + 5 + 7 + ... + n
-6.4. Write a program to calculate the series: 4 + 12 + 20 + 28 + ... + n
-6.5. Write a program to calculate the series: 2 + 5 + 8 + 11 + ... + n
-
-6.6. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n(n+1)
-6.7. Write a program to calculate the series: 2.1 + 5.3 + 8.5 + ... + n(n - nth)
-6.8. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n(n+2)
-
-6.9. Write a program to calculate the series: 1^2 + 2^2 + 3^2 + ... + n^2
-6.10. Write a program to calculate the series: 1^2 + 3^2 + 5^2 + ... + n^2
-6.11. Write a program to calculate the series: 1^3 + 2^3 + 3^3 + ... + n^3
-6.12. Write a program to calculate the series: 1^1 + 2^2 + 3^3 + ... + n^n
-
-6.13. Write a program to calculate the series: 1.1^2 + 2.3^2 + 3.5^2 + ... + n.(n + nth - 1)^2
-6.14. Write a program to calculate the series: 1.2^2 + 2.3^2 + 3.4^2 + ... + n.(n+1)^2
-
-6.15. Write a program to calculate the series: 1.2.3 + 2.3.4 + 3.4.5 + ... + n(n+1)(n+2)
-6.16. Write a program to calculate the series: 2.5.8 + 5.8.11 + 8.11.14 + ... + n(n+3)(n+6)
-6.17. Write a program to calculate the series: 5.6.7 + 6.7.8 + 7.8.9 + ... + n(n+1)(n+2)
-
-6.18. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n(n+2)(n+4)(n+6)
+5.18. Write a program to calculate the series: 1.3.5.7 + 3.5.7.9 + 5.7.9.11 + ... + n(n+2)(n+4)(n+6)
 
 
 Mini Section - Traversing loop in reverse order
 
-6.51. Write a program to print all numbers from 100 to 1.
-6.52. Write a program to print all even numbers from 100 to 1.
-6.53. Write a program to print all odd numbers from 100 to 1.
-6.54. Write a program to print all number from n to 1.
-6.55. Write a program to print all number from n to 1.
-6.56. Write a program to print all number who is divible by 5 from n to 1.
-6.57. Write a program to print all number who is divible by y from n to 1 (y < n).
+5.31. Write a program to print all numbers from 100 to 1.
+5.32. Write a program to print all even numbers from 100 to 1.
+5.33. Write a program to print all odd numbers from 100 to 1.
+5.34. Write a program to print all number from n to 1.
+5.35. Write a program to print all number from n to 1.
+5.36. Write a program to print all number who is divible by 5 from n to 1.
+5.37. Write a program to print all number who is divible by y from n to 1 (y < n).
 
 
-7. Pyramid
+6. Pyramid
 
-7.1.    
+6.1.    
 		1
 		1 2
 		1 2 3
 
-7.2.	
+6.2.	
 		1
 		2 2
 		3 3 3
 
-7.3.
+6.3.
 		1
 		0 0
 		1 1 1
 		0 0 0 0
 		1 1 1 1 1
 
-7.4.
+6.4.
 		1
 		1 0
 		1 0 1
 		1 0 1 0
 		1 0 1 0 1
 
-7.5.
+6.5.
 		2
 		3 4
 		4 5 6
 		5 6 7 8
 		6 7 8 9 10
 
-7.6.
+6.6.
 		1
 		2 3
 		3 4 5
 		4 5 6 7
 		5 6 7 8 9
 
-7.7.
+6.7.
 		0
 		1 0
 		0 1 0
 		1 0 1 0
 		0 1 0 1 0
 
-7.8.
+6.8.
 		1
 		0 1
 		1 0 1
 		0 1 0 1
 		1 0 1 0 1
 
-7.9.
+6.9.
 		A
 		B B
 		C C C
 		D D D D 
 		E E E E E
 
-7.10.
+6.10.
 		A
 		A B
 		A B C
 		A B C D
 		A B C D E
 
-7.11.
+6.11.
 		1 2 3 4 5
 		1 2 3 4
 		1 2 3
 		1 2
 		1
 
-7.12.
+6.12.
 		5 5 5 5 5
 		4 4 4 4
 		3 3 3
 		2 2
 		1
 
-7.13.
+6.13.
 		1 1 1 1 1
 		0 0 0 0
 		1 1 1
 		0 0
 		1
 
-7.14.
+6.14.
 		1 0 1 0 1
 		1 0 1 0
 		1 0 1
 		1 0
 		1
 
-7.15.
+6.15.
 		6 7 8 9 10
 		5 6 7 8
 		4 5 6
 		3 4
 		2
 
-7.16.
+6.16.
 		5 6 7 8 9
 		4 5 6 7
 		3 4 5
 		2 3
 		1
 
-7.17.
+6.17.
 		0 1 0 1 0
 		1 0 1 0
 		0 1 0
 		1 0
 		0
 
-7.18.
+6.18.
 		1 0 1 0 1
 		0 1 0 1
 		1 0 1
 		0 1
 		1
 
-7.19.
+6.19.
 		E E E E E
 		D D D D
 		C C C
 		B B
 		A
 
-7.20.
+6.20.
 		A B C D E
 		A B C D
 		A B C
 		A B
 		A
 
-7.21.
+6.21.
 
 			1
 		      1 2
@@ -335,28 +324,28 @@ Mini Section - Traversing loop in reverse order
 		  1 2 3 4
 		1 2 3 4 5
 
-7.22.
+6.22.
 		        1
 		      2 2
 		    3 3 3 
 		  4 4 4 4 
 		5 5 5 5 5
 
-7.23.
+6.23.
 			1
 		      0 0 
 		    1 1 1
 		  0 0 0 0
 		1 1 1 1 1
 
-7.24.
+6.24.
 			1
 		      1 0
 		    1 0 1
 		  1 0 1 0
 		1 0 1 0 1
 
-7.25.
+6.25.
 			1
 		       2 2
 		      3 3 3
@@ -365,7 +354,7 @@ Mini Section - Traversing loop in reverse order
 
 1 space between digits
 
-7.25.2.
+6.25.2.
 			1
 		      2   2
 		    3   3   3
@@ -374,7 +363,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.26.
+6.26.
 			    A
 			   B B
 			  C C C
@@ -383,7 +372,7 @@ Mini Section - Traversing loop in reverse order
 
 1 space between digits
 
-7.26.2.
+6.26.2.
 			A
 		      B   B
 		    C   C   C
@@ -392,7 +381,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.27.
+6.27.
 				A
 				B B
 				C C C 
@@ -403,7 +392,7 @@ Mini Section - Traversing loop in reverse order
 				B B
 				A
 
-7.28.
+6.28.
 			    A
 			   B B
 			  C C C 
@@ -416,7 +405,7 @@ Mini Section - Traversing loop in reverse order
 
 1 space between digits
 
-7.28.2.
+6.28.2.
 			A
 		      B   B
 		    C   C   C
@@ -429,7 +418,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.29.
+6.29.
 			    1
 			   2 2
 			  3 3 3
@@ -444,7 +433,7 @@ Mini Section - Traversing loop in reverse order
 
 
 
-7.29.2.
+6.29.2.
 				1
 			    2   2
 			3   3   3
@@ -457,7 +446,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.30.
+6.30.
 		1
 		2 2
 		3 3 3
@@ -468,7 +457,7 @@ Mini Section - Traversing loop in reverse order
 		2 2
 		1
 
-7.31.
+6.31.
 			1
 		      2 2
 		    3 3 3
@@ -479,14 +468,14 @@ Mini Section - Traversing loop in reverse order
 		      2 2
 			1
 
-7.32.
+6.32.
 			1
 		      1 2 1
 		    1 2 3 2 1
 		  1 2 3 4 3 2 1
 		1 2 3 4 5 4 3 2 1
 
-7.33.
+6.33.
 			1
 		      1 2 1
 		    1 2 3 2 1
@@ -497,7 +486,7 @@ Mini Section - Traversing loop in reverse order
 		      1 2 1
 			1
 
-7.34.
+6.34.
 						1
 						2   3   2
 						3   4   5   4   3
@@ -514,7 +503,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.35.
+6.35.
 						    1
 						2   3   2
 					    3   4   5   4   3
@@ -531,7 +520,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.36.
+6.36.
 					        1
 					      2 3 2
 					    3 4 5 4 3
@@ -548,7 +537,7 @@ Mini Section - Traversing loop in reverse order
 
 1 space between digits
 
-7.36.2
+6.36.2
 							1
 						    2   3   2
 						3   4   5   4   3
@@ -565,7 +554,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.37.
+6.37.
 		 1
 		 2   3
 		 4   5   6
@@ -574,7 +563,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.38.
+6.38.
 			1
 			2   1
 			3   3   1
@@ -584,7 +573,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.39.
+6.39.
 			1
 			1   1
 			1   2   1
@@ -595,7 +584,7 @@ Mini Section - Traversing loop in reverse order
 
 3 space between digits
 
-7.40. The following program asks the user to enter a number n. It then prints a picture showing a triangle
+6.40. The following program asks the user to enter a number n. It then prints a picture showing a triangle
 that points to the right that has 2n - 1 rows and n columns. For example, if n = 4 the program would print
 	
 		*
@@ -606,7 +595,7 @@ that points to the right that has 2n - 1 rows and n columns. For example, if n =
 		**
 		*
 
-7.41. The following program asks the user to enter a number n. It then prints a picture showing a
+6.41. The following program asks the user to enter a number n. It then prints a picture showing a
 downward pointing triangle with n rows and 2n - 1 columns. For example, if n = 4 it would print
 
 		*******
@@ -615,7 +604,7 @@ downward pointing triangle with n rows and 2n - 1 columns. For example, if n = 4
 		   *
 
 
-7.42. Write a complete C program that asks the user for a number n of triangles to print. It then
+6.42. Write a complete C program that asks the user for a number n of triangles to print. It then
 prints n triangles made of X symbols, one above another. Each triangle has n rows and every second 
 triangle is upside down. The triangles should be separated by lines of - symbols.
 
@@ -642,7 +631,7 @@ For example, here is the output from the program where the user specifies 4 for 
 		   X
 		----
 
-7.43. Write a complete C program that asks the user for a number n and then prints a large grid
+6.43. Write a complete C program that asks the user for a number n and then prints a large grid
 of small squares. Each small square has size (n − 1) × (n − 1) and contains ∗ symbols. The large grid should have n rows each of which contains n small squares, with a blank column separating these squares. The rows of small squares in the large grid should be separated by blank rows.
 For example, if the user specified 3 for n, the program would print as follows:
 
@@ -655,7 +644,7 @@ For example, if the user specified 3 for n, the program would print as follows:
 		** ** **
 		** ** **
 
-7.44. Write a complete C++ program that asks the user for a number n and prints n squares made of
+6.44. Write a complete C++ program that asks the user for a number n and prints n squares made of
 ∗ symbols each with an upward diagonal stripe made of O symbols. Each square has height n and width n and the
 squares form a horizontal sequence.
 For example, if the user specified 4 for n, the program would print as follows:
@@ -665,7 +654,7 @@ For example, if the user specified 4 for n, the program would print as follows:
 *O** *O** *O** *O**
 O*** O*** O*** O***
 
-7.45. Write a complete C program that asks the user to enter a positive integer n. If n is not positive
+6.45. Write a complete C program that asks the user to enter a positive integer n. If n is not positive
 the program should print a message Not positive. Enter another: and continue to do this until the user 
 enters a positive integer. Then the program should print n squares of *s with decreasing size that begin 
 with an n × n square and end with a 1 × 1 square. The right hand edges of the squares should line up.
@@ -684,7 +673,7 @@ Not positive. Enter another: 4
 		  **
 		   *
 
-7.46. Write a complete C program that asks the user to enter an odd positive integer n. If n is illegal
+6.46. Write a complete C program that asks the user to enter an odd positive integer n. If n is illegal
 the program must terminate at once. Otherwise the program should print squares of *s. that begin with an n × n
 square and end with a 1 × 1 square and such that the sizes of squares decrease by 2 as they go down the page. The right hand edges of the squares should line up.
 
@@ -699,6 +688,7 @@ Enter an odd positive integer n: 5
 		  ***
 		  ***
 		    *
+
 
 
 8.  Loop

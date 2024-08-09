@@ -173,9 +173,8 @@ Mini Section - Traversing loop in reverse order
 5.32. Write a program to print all even numbers from 100 to 1.
 5.33. Write a program to print all odd numbers from 100 to 1.
 5.34. Write a program to print all number from n to 1.
-5.35. Write a program to print all number from n to 1.
-5.36. Write a program to print all number who is divible by 5 from n to 1.
-5.37. Write a program to print all number who is divible by y from n to 1 (y < n).
+5.35. Write a program to print all number who is divible by 5 from n to 1.
+5.36. Write a program to print all number who is divible by y from n to 1 (y < n).
 
 
 6. Pyramid
